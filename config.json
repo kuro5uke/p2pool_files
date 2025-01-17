@@ -8,9 +8,9 @@
     "cuda": {
         "enabled": true
     },
-    "url": "127.0.0.1:3333",
+    "url": "192.168.50.19:3333",
     "user": "45jut79VbRM9NNseGyuV8WBnS1HYiAv3K4bn7vuJQ6NRWfAhGgSMBDXSYAYr8rBLkkdDYMs3totBGDN5nqRXrokhDfXwTnH",
-    "algo": "rx/1",
-    "threads": 0,
+    "algo": "rx/0",
+    "threads": 32,
     "donate-level": 1
 }
